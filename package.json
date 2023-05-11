@@ -1,0 +1,27 @@
+{
+    "name": "bob",
+    "version": "1.0.0",
+    "description": "",
+    "main": "bot.js",
+    "scripts": {
+        "dev": "nodemon bot.js"
+    },
+    "keywords": [],
+    "author": "",
+    "type": "module",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^14.7.1",
+        "dotenv": "^16.0.1",
+        "mongoose": "^6.3.8",
+        "node-fetch": "^3.3.1",
+        "uuid": "^9.0.0"
+    },
+    "imports": {
+        "#events/*": "./events/*",
+        "#commands/*": "./commands/*.js"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.16"
+    }
+}

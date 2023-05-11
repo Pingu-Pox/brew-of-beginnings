@@ -1,0 +1,182 @@
+{
+  "69613482-2d63-46c4-9168-4ceeda20ee31": {
+    "image": "./img/fork-in-the-road.png",
+    "question": "What path do you go?",
+    "answers": {
+      "ironguard": "To battle",
+      "ramheart": "Open country",
+      "runeforge": "Marketplace"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "40f197fb-34e2-45e2-8afd-72d5d2f630a1": {
+    "image": "./img/mountaintop.png",
+    "question": "You approach a mountain...",
+    "answers": {
+      "ironguard": "Walk away",
+      "ramheart": "Settle on top",
+      "runeforge": "Get beneath"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "b84df5b1-cd58-46fd-a2b8-bc6ebc4fac3e": {
+    "image": "./img/sword.png",
+    "question": "A sword drops down before you. What do you do with it?",
+    "answers": {
+      "ironguard": "Use it",
+      "ramheart": "Sell it",
+      "runeforge": "Melt it down"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "ebab6537-402e-4a91-b426-593b24962699": {
+    "image": "./img/marketplace.png",
+    "question": "What enterprise would you be interested in?",
+    "answers": {
+      "ironguard": "Mercenary",
+      "ramheart": "Cavalry",
+      "runeforge": "Crafter"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "cb6876b5-9754-4969-af35-907f8c37d5d6": {
+    "image": "./img/mob.png",
+    "question": "What drives your fight?",
+    "answers": {
+      "ironguard": "Iron and gold",
+      "ramheart": "Hearth and home",
+      "runeforge": "Faith and forge"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "c29a6f33-f862-4538-8857-806bad903ae9": {
+    "image": "./img/spy.png",
+    "question": "Your best kin betrays you. What do you do?",
+    "answers": {
+      "ironguard": "Frag",
+      "ramheart": "Forgive",
+      "runeforge": "Forget"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "cb205d34-e093-4147-8b92-223042d175fe": {
+    "image": "./img/i-choose-you.png",
+    "question": "Which of these words best describes you?",
+    "answers": {
+      "ironguard": "Brave",
+      "ramheart": "Loyal",
+      "runeforge": "Creative"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "eb52e8fb-78ab-47aa-b81c-68a8ea7ff1d4": {
+    "image": "./img/super-power.png",
+    "question": "Which of these magical abilities would you most want to have?",
+    "answers": {
+      "ironguard": "Super strength",
+      "ramheart": "Shapeshifting",
+      "runeforge": "Telekinesis"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "fa5b2ce9-e0b6-4137-960c-7874a10f4b4a": {
+    "image": "./img/planet.png",
+    "question": "Which of these environments feels most like home to you?",
+    "answers": {
+      "ironguard": "Deep, winding caves",
+      "ramheart": "Open grasslands and fields",
+      "runeforge": "Bustling cities"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "39906c0c-61da-4769-8d30-931957db8488": {
+    "image": "./img/chess-pieces.png",
+    "question": "Which of these qualities is most important in a leader?",
+    "answers": {
+      "ironguard": "Courage and bravery",
+      "ramheart": "Intelligence and cunning",
+      "runeforge": "Creativity and innovation"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "9556a272-1f63-4cb0-9bcc-41967970daaa": {
+    "image": "./img/question-mark.png",
+    "question": "Which of these objects would you most like to own?",
+    "answers": {
+      "ironguard": "A sturdy, reliable battle axe",
+      "ramheart": "A magical cloak that endures the elements",
+      "runeforge": "A wand that can create beautiful, intricate illusions"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "c700c07f-edda-4ffc-91a1-f430fbf147be": {
+    "image": "./img/dwarven-statue.png",
+    "question": "Which of these dwarven traditions do you value most highly?",
+    "answers": {
+      "ironguard": "A fierce loyalty to one's chosen allies",
+      "ramheart": "The importance of family and clan",
+      "runeforge": "A love of beauty and craftsmanship"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "fc3fae64-a99b-4567-895e-24e68699211c": {
+    "image": "./img/imagination.png",
+    "question": "Which of these quotes do you resonate with the most?",
+    "answers": {
+      "ironguard": "\"Fortune favors the bold\"",
+      "ramheart": "\"There's no place like home\"",
+      "runeforge": "\"Imagination is the only weapon in the war against reality\""
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "adef047a-cca2-4b70-be76-db89741b973a": {
+    "image": "./img/mirror.png",
+    "question": "Which of the following attributes is most important to you?",
+    "answers": {
+      "ironguard": "Courage",
+      "ramheart": "Survival",
+      "runeforge": "Knowledge"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "443c5aaf-a5c7-40ba-b6f1-55b395386430": {
+    "image": "./img/weapons.png",
+    "question": "What kind of weapon do you prefer to wield in battle?",
+    "answers": {
+      "ironguard": "A sturdy shield and a trusty axe or hammer",
+      "ramheart": "A crossbow or other ranged weapon",
+      "runeforge": "A massive battle axe"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "67af7c61-181f-4ad8-b6c2-e59d2048394c": {
+    "image": "./img/worldtree.png",
+    "question": "Which of the following phrases best describes your approach to life?",
+    "answers": {
+      "ironguard": "\"Fortune favors the bold\"",
+      "ramheart": "\"Survival of the fittest\"",
+      "runeforge": "\"Knowledge is power\""
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "2a8ae1cb-42e0-45e1-b0da-5956ce7a6797": {
+    "image": "./img/important.png",
+    "question": "Which of the following qualities do you value most in others?",
+    "answers": {
+      "ironguard": "Bravery",
+      "ramheart": "Loyalty",
+      "runeforge": "Resourcefulness"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  },
+  "065914ee-8c53-4577-b542-bc1c5faf3ec5": {
+    "image": "./img/temple.png",
+    "question": "Whic of the following professions would you be most interested in pursuing?",
+    "answers": {
+      "ironguard": "Soldier or guard",
+      "ramheart": "Brewer or farmer",
+      "runeforge": "Scholar or smith"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  }
+}
