@@ -2,4 +2,8 @@
 *.txt
 *.sh
 *.bat
+*.json
+*.jpg
+*.jpeg
+*.png
 node_modules
