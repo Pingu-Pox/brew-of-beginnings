@@ -1,0 +1,12 @@
+{
+  "4f831ab8-8eaa-41d6-86a6-f7589805d6b5": {
+    "image": "./img/bonus.png",
+    "question": "You get a guild bonus! What do you do with it?",
+    "answers": {
+      "ironguard": "Buy materials",
+      "ramheart": "Buy services",
+      "runeforge": "Buy beer"
+    },
+    "author": "pingu.exe 🗕 🗗 🗙"
+  }
+}

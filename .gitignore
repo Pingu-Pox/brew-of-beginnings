@@ -1,0 +1,5 @@
+.env
+*.txt
+*.sh
+*.bat
+node_modules
